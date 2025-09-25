@@ -16,9 +16,9 @@ Communicatation science graduate. Currently studying cultural data and AI, with 
 <br> 
 
 <p align="center">
-
-  [![My Skills](https://skillicons.dev/icons?i=vscode,python,linux,notion,obsidian)](https://skillicons.dev)
-
+  
+  [![My Skills](https://skillicons.dev/icons?i=vscode,github,git,python,linux,notion,obsidian,ai)]
+  
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Projects </b>
