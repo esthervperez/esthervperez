@@ -34,14 +34,7 @@ Communicatation science graduate. Currently studying cultural data and AI, with 
 </details>
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope%20with%20Arrow.png" alt="Envelope with Arrow" width="27" height="27" /><b> Contact Me</b>
-
-- *LinkedIn:* [Esther VP](https://www.linkedin.com/in/esther-vazquez-perez-b2954b205/)
-- *GitHub:* [github.com/esthervperez](https://github.com/esthervperez)
-
-
-<!--
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
---->
+
