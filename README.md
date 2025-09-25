@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=35&center=true&vCenter=true&width=600&height=100&lines=Hey+there%2C+I%27m+Esther!&repeat=false"
+      src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=yellow&size=35&center=true&vCenter=true&width=600&height=100&lines=Hey+there%2C+I%27m+Esther!&repeat=false"
       alt="Typing SVG"
     />
   </a>
@@ -33,8 +33,4 @@ Communicatation science graduate. Currently studying cultural data and AI, with 
 
 </details>
 
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
