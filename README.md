@@ -4,7 +4,7 @@
   </a>
 </p>
 
-## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="30"><b>  About Me</b>
+##  About Me</b>
 
 Communicatation science graduate. Currently studying cultural data and AI, with interests in data analysis, digital culture, and tech ethics.
 
