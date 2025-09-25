@@ -16,7 +16,7 @@ Communicatation science graduate. Currently studying cultural data and AI, with 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Projects </b>
 
 <details>
-  <summary>🎓 Python Projects</summary>
+  <summary> Python Projects</summary>
 
  
   -
@@ -24,7 +24,7 @@ Communicatation science graduate. Currently studying cultural data and AI, with 
 </details>
 
 <details>
-  <summary>🚀 Other Repos</summary>
+  <summary> Other Repos</summary>
 
  
   - [esthervperez](https://github.com/esthervperez/esthervperez) – This is my README!
