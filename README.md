@@ -8,12 +8,12 @@
 
 Communicatation science graduate. Currently studying cultural data and AI, with interests in data analysis, digital culture, and tech ethics.
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages & Tools</b>
+##  Languages & Tools</b>
 <br> 
 
   ![My Skills](https://skillicons.dev/icons?i=ubuntu,vscode,git,github,notion,obsidian,ai,blender,python)
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Projects </b>
+##  Projects </b>
 
 <details>
   <summary> Python Projects</summary>
