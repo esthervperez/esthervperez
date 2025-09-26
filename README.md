@@ -19,15 +19,10 @@ Communicatation science graduate. Currently studying cultural data and AI, with 
 ##  Projects </b>
 
 <details>
-  <summary>Python projects</summary>
+  <summary> My repositories</summary>
 
-  - 
-
-</details>
-
-<details>
-  <summary>Other repositories</summary>
-
+  - [Python!](https://github.com/esthervperez/python) - First python projects.
+  
   - [esthervperez](https://github.com/esthervperez/esthervperez) – This is my README!
 
 </details>
