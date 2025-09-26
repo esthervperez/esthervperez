@@ -30,8 +30,6 @@ Communicatation science graduate. Currently studying cultural data and AI, with 
 
   - [esthervperez](https://github.com/esthervperez/esthervperez) – This is my README!
 
-  - *More personal and full-stack projects… coming soon!* 😉
-
 </details>
 
 
