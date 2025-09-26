@@ -11,7 +11,7 @@ Communicatation science graduate. Currently studying cultural data and AI, with 
 <br> 
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a
     <img src="https://skillicons.dev/icons?i=git,github,ubuntu,vscode,notion,obsidian,ai,blender,python" />
   </a>
 </p>
